@@ -186,7 +186,7 @@ The goal is to demonstrate how retail transaction, inventory, and supplier data 
 
 ## 👤 Author
 
-**Sham Kedar**
+**Sanket Khatkale**
 
 **Data Analyst**
 
